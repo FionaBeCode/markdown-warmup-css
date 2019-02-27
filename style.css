@@ -1,16 +1,21 @@
 body {
-background-color: #000000;
+background-color: #8eb88c;
 }
-
+a {
+    text-decoration: darkcyan;
+    color: midnightblue;
+}
 #container {
-    background-color: yellow;
+    background-color: skyblue;
     width: 800px;
     margin-left: auto;
     margin-right: auto;
 }
 #header { 
     background-color:  	#708090;
-    color: white;}
+    width: 800px;
+    color: #13492b;
+    }
 #content {padding: 10px; 
 }
 
@@ -20,4 +25,7 @@ background-color: #000000;
 }
 
 #p { color: #66CCff;
+}
+#footer {
+    background-color: white;
 }
