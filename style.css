@@ -1,6 +1,6 @@
 body {
-background-color:#02A676;
-color:#003840;
+background-color:rgb(107, 192, 166);
+color:rgb(34, 100, 75);
 }
 
 a {
@@ -14,6 +14,9 @@ a {
 p { 
     color:midnightblue;
 }
+#li {
+    color: #FF8A40
+}
 
 #container {
     background-color: skyblue;
@@ -21,8 +24,8 @@ p {
     margin-left: auto;
     margin-right: auto;
 }
-#header { 
-    background-color:  	#007369;
+#header, h1, h2 { 
+    background-color:  	rgba(15, 228, 164, 0.726);
     width: 800px;
     color: #13492b;
     }
@@ -31,9 +34,8 @@ p {
     font-size: 160px, 15em;
     
     letter-spacing: 5px;
-    text-decoration: darkcyan;
-    color: #13492b;
-    padding: 10px; 
+    text-decoration:#CC4114;
+       padding: 10px; 
 }
 
 #nav {
@@ -41,7 +43,7 @@ p {
     float: left;
 }
 
-#p { color: #66CCff;
+#p { color: #CC4114;
 }
 #footer {
     background-color: #005A5B;
